@@ -1,1 +1,0 @@
-This has only basics of python programming 
